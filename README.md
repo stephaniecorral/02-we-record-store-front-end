@@ -1,0 +1,1 @@
+# 02-we-record-store-front-end
